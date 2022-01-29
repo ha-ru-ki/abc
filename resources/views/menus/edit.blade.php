@@ -35,7 +35,7 @@
 
             
             <div class='content__recommend'>
-                <h2>お勧め</h2>
+                <h2>お勧め!</h2>
                 <input type='text' name='menu[recommend]' value="{{ $menu->recommend }}">
             </div>
             

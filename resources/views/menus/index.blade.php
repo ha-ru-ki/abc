@@ -24,7 +24,7 @@
                      <img src= "{{ $menu->picture }}" width="100px" height="100px"></a>
                     
 
-                    <p class='explain'>{{ $menu->price }}円(税込み)</p>
+                    <p class='explain'>{{ $menu->price }}円 (税込み)</p>
                     
                     
                     

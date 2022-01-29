@@ -40,7 +40,7 @@
                 
 
                 
-                <h2>お勧め</h2>
+                <h2>お勧め?</h2>
                 <textarea name="menu[recommend]" placeholder="お勧め=1 or その他=0">{{ old('menu.recommend') }}</textarea>
                 <p class="recommend__error" style="color:red">{{ $errors->first('menu.recommend') }}</p>
                 

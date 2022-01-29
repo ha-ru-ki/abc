@@ -64,7 +64,7 @@
             <a class="name">
             {{ $menu->comment1 }}
             {{ $menu->created_at }}
-           <p>投稿者：{{Auth::user()->name}}　学部4年男性</p>
+           <p>投稿者：{{Auth::user()->name}}　学部4年生男性</p>
             </a>
         </div>  
         
